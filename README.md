@@ -16,3 +16,6 @@ which are copied based on the intelligent sampling process.
 In both modes (`xyz` and `xanes`), the script iterates over the sampling steps specified by the user, creating output directories for each step and copying the selected files. 
 The intelligent sampling approach ensures that the chosen molecular structures or spectra are diverse and spread out in the feature space, providing a meaningful subset of data
 for further analysis.
+
+
+For more details please refer https://github.com/NewcastleRSE/xray-spectroscopy-ml
